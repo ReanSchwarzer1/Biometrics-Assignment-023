@@ -13,12 +13,16 @@ OpenCV
 
 ### Installing
 
-Install Numpy via anaconda:
+Install Numpy via anaconda or terminal:
+```bash
 conda install numpy
-
-Install OpenCV via anaconda:
+pip install numpy
+```
+Install OpenCV via anaconda or terminal:
+```bash
 conda install -c menpo opencv
-
+pip install opencv-python
+```
 
 ## Running the tests
 
