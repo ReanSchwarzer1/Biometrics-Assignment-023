@@ -1,7 +1,20 @@
 # 18CSE357T Biometrics RA1811003010023 Assignment
 
 
-# Youtube Link (Demo) 
+### Working snapshots
+<p align="center">
+<img src="https://github.com/ReanSchwarzer1/18CSE357T-Biometrics-RA1811003010023-Assignment/blob/main/demo3.jpg">
+</p> 
+
+<p align="center">
+<img src="https://github.com/ReanSchwarzer1/18CSE357T-Biometrics-RA1811003010023-Assignment/blob/main/demo2.jpg">
+</p> 
+
+<p align="center">
+<img src="https://github.com/ReanSchwarzer1/18CSE357T-Biometrics-RA1811003010023-Assignment/blob/main/demo1.PNG">
+</p> 
+
+### Youtube Link (Demo) 
 https://youtu.be/3Uguy97rR8Q
 
 ### Prerequisites
@@ -33,3 +46,6 @@ Run Tester.py script on commandline to train recognizer on training images and a
 3.To generate test images for training classifier use videoimg.py file.</br>
 4.To do test run via tester.py give the path of image in test_img variable</br>
 5.Use "videoTester.py" script for predicting faces realtime via your webcam.(But ensure that you run tester.py first since it generates training.yml file that is being used in "videoTester.py" script.
+
+### License
+[MIT](https://choosealicense.com/licenses/mit/)
