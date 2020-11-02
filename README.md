@@ -1,4 +1,6 @@
-# 18CSE357T Biometrics RA1811003010023 Assignment
+## Simple Face Detection
+#### 18CSE357T Biometrics RA1811003010023 Assignment
+
 
 
 ### Working snapshots
@@ -47,5 +49,4 @@ Run Tester.py script on commandline to train recognizer on training images and a
 4.To do test run via tester.py give the path of image in test_img variable</br>
 5.Use "videoTester.py" script for predicting faces realtime via your webcam.(But ensure that you run tester.py first since it generates training.yml file that is being used in "videoTester.py" script.
 
-### License
-[MIT](https://choosealicense.com/licenses/mit/)
+
